@@ -1,4 +1,5 @@
-Bidirectional Recurrent Neural Networks with Adversarial Training (BIRNAT) %
+Bidirectional Recurrent Neural Networks with Adversarial Training (BIRNAT) 
+
 https://github.com/BoChenGroup/BIRNAT?utm_source=catalyzex.com
 
 Rank Minimization for Snapshot Compressive Imaging
